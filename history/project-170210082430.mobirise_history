@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "the Mooving Store",
-    "currentPage": "index.html",
+    "currentPage": "the-mooving-company.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,11 @@
     },
     "versionFirst": "3.11.1",
     "uniqCompNum": 26,
-    "versionPublish": "3.11.1"
+    "versionPublish": "3.11.1",
+    "publishFtpPath": "public_html",
+    "publishType": "github",
+    "gitHubName": "ignitemx",
+    "gitHubPath": "themoovingstore"
   },
   "pages": {
     "index.html": {
@@ -132,13 +136,6 @@
             "Theme"
           ],
           "_name": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "72px"
-            }
-          },
           "_anchor": "header2-1",
           "_params": {
             "imageSize": 50,
@@ -180,7 +177,14 @@
           },
           "title": "the MOOving Store",
           "text": "Western Colorado's Largest Consignment Store",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "72px"
+            }
+          }
         },
         {
           "_inherit": "gallery1",
@@ -354,12 +358,6 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
-            }
-          },
           "_anchor": "msg-box5-2",
           "_params": {
             "imageSize": 50,
@@ -406,7 +404,13 @@
           },
           "title": "We've Raised the STEAKS by being GRADE A PRIME!",
           "text": "&nbsp;Most of us have a busy life and we have to MOOve quick just to keep up! That's where The MOOving Store comes in!<br><br>Whether you're looking for the one specific item or looking to make cash on the dash by consigning, we're it!   With over 10,000 square feet of shopping you can most likely find what you want when you want it all in one place! That's the beauty of shopping in the largest consignment store on the Western Slope of Colorado.<br><br>Find out more about us by following us below! Looking to see our new items? See our Facebook and Twitter where different items are added to each one. Follow us and like us to see all of our newest items, coupons and sales. Like free things?? Participate in our contests and giveaways by following and LIKING us!<br><br>The MOOving Store offers the friendly service that you deserve. So come on in and see what we have to offer! And remember, if you like us, tell your friends, if you don't like us... tell your enemies!<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          }
         },
         {
           "_styles": {
