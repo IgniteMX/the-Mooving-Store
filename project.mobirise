@@ -22,7 +22,11 @@
     },
     "versionFirst": "3.11.1",
     "uniqCompNum": 26,
-    "versionPublish": "3.11.1"
+    "versionPublish": "3.11.1",
+    "publishFtpPath": "public_html",
+    "publishType": "github",
+    "gitHubName": "ignitemx",
+    "gitHubPath": "themoovingstore"
   },
   "pages": {
     "index.html": {
