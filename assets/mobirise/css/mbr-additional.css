@@ -1,8 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
-
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 
 
 
@@ -12,11 +11,11 @@ body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Oxygen', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Oxygen', sans-serif;
 }
 .btn,
 .alert,
@@ -40,7 +39,7 @@ h6,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -54,7 +53,7 @@ h6,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
 }
 .btn-sm,
 .lead a,
@@ -63,26 +62,26 @@ h6,
 .mbr-section-hero .mbr-section-lead,
 .mbr-cards .card-subtitle,
 .mbr-testimonial .card-block {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Indie Flower', cursive;
   font-style: normal;
 }
 .mbr-author-name {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
 }
 .mbr-author-desc {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Indie Flower', cursive;
   font-style: normal;
 }
 .mbr-plan-title {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Indie Flower', cursive;
   font-style: normal;
 }
 .bg-primary {
-  background-color: #90a878 !important;
+  background-color: #28324e !important;
 }
 .bg-success {
   background-color: #90a878 !important;
@@ -97,8 +96,8 @@ h6,
   background-color: #f28281 !important;
 }
 .btn-primary {
-  background-color: #90a878;
-  border-color: #90a878;
+  background-color: #28324e;
+  border-color: #28324e;
   color: #ffffff;
 }
 .btn-primary:hover,
@@ -107,14 +106,14 @@ h6,
 .btn-primary:active,
 .btn-primary.active {
   color: #ffffff;
-  background-color: #6a8153;
-  border-color: #6a8153;
+  background-color: #0e121b;
+  border-color: #0e121b;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #6a8153 !important;
-  border-color: #6a8153 !important;
+  background-color: #0e121b !important;
+  border-color: #0e121b !important;
 }
 .btn-secondary {
   background-color: #bfcecb;
@@ -218,8 +217,8 @@ h6,
 }
 .btn-primary-outline {
   background: none;
-  border-color: #5d7149;
-  color: #5d7149;
+  border-color: #05070b;
+  color: #05070b;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
@@ -227,14 +226,14 @@ h6,
 .btn-primary-outline:active,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #90a878;
-  border-color: #90a878;
+  background-color: #28324e;
+  border-color: #28324e;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #90a878 !important;
-  border-color: #90a878 !important;
+  background-color: #28324e !important;
+  border-color: #28324e !important;
 }
 .btn-secondary-outline {
   background: none;
@@ -337,7 +336,7 @@ h6,
   border-color: #f28281 !important;
 }
 .text-primary {
-  color: #90a878 !important;
+  color: #28324e !important;
 }
 .text-success {
   color: #90a878 !important;
@@ -364,36 +363,36 @@ h6,
   background-color: #f28281;
 }
 .btn-social {
-  border-color: #90a878;
+  border-color: #28324e;
 }
 .btn-social:hover {
-  background: #90a878;
+  background: #28324e;
 }
 .mbr-company .list-group-item.active .list-group-text {
-  color: #90a878;
+  color: #28324e;
 }
 .mbr-footer p a,
 .mbr-footer ul a {
-  color: #90a878;
+  color: #28324e;
 }
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #90a878;
+  background: #28324e;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #90a878;
+  color: #28324e;
 }
 .lead a,
 .lead a:hover {
-  color: #90a878;
+  color: #28324e;
 }
 .lead blockquote {
-  border-color: #90a878;
+  border-color: #28324e;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #d0dac6;
+  color: #94a1c8;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -413,16 +412,296 @@ h6,
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
-  color: #90a878;
+  color: #28324e;
 }
 .scrollToTop_wraper {
   opacity: 0 !important;
+}
+.extCountdown1 .number,
+.extCountdown2 .number {
+  font-family: 'Noto Sans', sans-serif;
+}
+.extCountdown1 .period,
+.extCountdown2 .period {
+  font-family: 'Indie Flower', cursive;
+  font-style: normal;
+}
+.extCountdown1 .dot,
+.extCountdown2 .dot {
+  font-family: 'Noto Sans', sans-serif;
+}
+.features6 .feature-subtitle {
+  font-family: 'Indie Flower', cursive;
+  font-style: normal;
+}
+.features6 .feature-title {
+  font-family: 'Noto Sans', sans-serif;
+}
+.features6 .description {
+  font-family: 'Oxygen', sans-serif;
+}
+.count,
+.counter-title {
+  font-family: 'Noto Sans', sans-serif;
+}
+.counter-subtitle {
+  font-family: 'Indie Flower', cursive;
+  font-style: normal;
+}
+.mbr-iconfont-counters1 {
+  color: #28324e;
+}
+.extHeader1 .container h3,
+.extHeader2 .container h3,
+.extHeader3 .container h3,
+.extHeader5 .container h3,
+.extHeader6 .container h3,
+.extHeader7 .container h3,
+.extHeader8 .container h3,
+.extHeader9 .container h3,
+.extHeader10 .container h3,
+.extHeader12 .container h3,
+.extHeader13 .container h3,
+.extFeatures10 .container h3 {
+  font-family: 'Noto Sans', sans-serif;
+}
+.extHeader1 .container p,
+.extHeader2 .container p,
+.extHeader3 .container p,
+.extHeader5 .container p,
+.extHeader6 .container p,
+.extHeader7 .container p,
+.extHeader8 .container p,
+.extHeader9 .container p,
+.extHeader10 .container p,
+.extHeader12 .container p,
+.extHeader13 .container p,
+.extFeatures10 .container p {
+  font-family: 'Indie Flower', cursive;
+  font-style: normal;
+}
+.extHeader5 .container label {
+  font-family: 'Indie Flower', cursive;
+  font-style: normal;
+}
+.extHeader9 form p.form-subtitle {
+  font-family: 'Noto Sans', sans-serif;
+}
+.extHeader11 .container span {
+  font-family: 'Noto Sans', sans-serif;
+}
+.extHeader11 .container p.element {
+  font-family: 'Noto Sans', sans-serif;
+}
+.extHeader11 .container p {
+  font-family: 'Indie Flower', cursive;
+  font-style: normal;
+}
+.extHeader12 h4,
+.extFeatures10 h4 {
+  font-family: 'Noto Sans', sans-serif;
+}
+.extHeader12 .subtitle,
+.extFeatures10 .subtitle {
+  font-family: 'Indie Flower', cursive;
+  font-style: normal;
+}
+.extHeader13 h4 {
+  font-family: 'Noto Sans', sans-serif;
+}
+.extHeader13 .number {
+  font-family: 'Noto Sans', sans-serif;
+}
+.extHeader13 .period {
+  font-family: 'Indie Flower', cursive;
+  font-style: normal;
+}
+.extHeader13 .dot {
+  font-family: 'Noto Sans', sans-serif;
+}
+.extFeatures .feature-title {
+  font-family: 'Noto Sans', sans-serif;
+}
+.extFeatures .feature-subtitle {
+  font-family: 'Indie Flower', cursive;
+  font-style: normal;
+}
+.extFeatures .feature-text {
+  font-family: 'Oxygen', sans-serif;
+}
+.extFeatures2 h4 {
+  font-family: 'Noto Sans', sans-serif;
+}
+.extFeatures3 .border-wrap {
+  border-color: #28324e;
+}
+.extFeatures4 h4,
+.extFeatures6 h4,
+.extFeatures5 .card-title h4 {
+  font-family: 'Noto Sans', sans-serif;
+}
+.extFeatures4 h5,
+.extFeatures6 h5,
+.extFeatures5 .card-title h5 {
+  font-family: 'Indie Flower', cursive;
+  font-style: normal;
+}
+.extForm1 h4,
+.extForm2 h4,
+.extForm3 h4,
+.extForm4 h4 {
+  font-family: 'Noto Sans', sans-serif;
+}
+.extForm1 .subtitle,
+.extForm2 .subtitle,
+.extForm3 .subtitle,
+.extForm4 .subtitle {
+  font-family: 'Indie Flower', cursive;
+  font-style: normal;
+}
+.extForm2 .container h3 {
+  font-family: 'Noto Sans', sans-serif;
+}
+.extForm2 .container p {
+  font-family: 'Indie Flower', cursive;
+  font-style: normal;
+}
+.extPricingTable1 .bottom_line {
+  border-bottom-color: #28324e;
+}
+.extPricingTable1 .mbr-price small {
+  font-family: 'Indie Flower', cursive;
+  font-style: normal;
+}
+.extPricingTable1 .mbr-plan-label {
+  background: #28324e;
+}
+.extCounters2 h4 {
+  font-family: 'Noto Sans', sans-serif;
+}
+.extCounters2 h5 {
+  font-family: 'Indie Flower', cursive;
+  font-style: normal;
+}
+.extCounters3 .count {
+  font-family: 'Noto Sans', sans-serif;
+}
+.extCounters3 .counter-title {
+  font-family: 'Noto Sans', sans-serif;
+}
+.extCounters3 .counter-subtitle {
+  font-family: 'Indie Flower', cursive;
+  font-style: normal;
+}
+.extProgressBar .progress-primary[value]::-webkit-progress-value {
+  background-color: #28324e;
+}
+.extProgressBar .progress-primary[value]::-moz-progress-bar {
+  background-color: #28324e;
+}
+@media screen and (min-width: 0\0) {
+  .extProgressBar .progress-primary .progress-bar {
+    background-color: #28324e;
+  }
+}
+.extProgressBar .title-wrap {
+  font-family: 'Indie Flower', cursive;
+  font-style: normal;
+}
+.extProgressBarRound .progress-radial .overlay {
+  font-family: 'Noto Sans', sans-serif;
+}
+.extProgressBar4 .feature-title {
+  font-family: 'Noto Sans', sans-serif;
+}
+.extProgressBar4 .feature-subtitle {
+  font-family: 'Indie Flower', cursive;
+  font-style: normal;
+}
+.extTabs1 ul.nav-tabs li a:hover,
+.extTabs2 ul.nav-tabs li a:hover {
+  color: #28324e;
+}
+.extAccordion1 .panel-heading a {
+  font-family: 'Oxygen', sans-serif;
+}
+.extAccordion1 .pseudoPlus,
+.extAccordion2 .pseudoPlus,
+.extToggle1 .pseudoPlus,
+.extAccordion1 .pseudoPlus:after,
+.extAccordion2 .pseudoPlus:after,
+.extToggle1 .pseudoPlus:after,
+.extAccordion1 .pseudoMinus,
+.extAccordion2 .pseudoMinus,
+.extToggle1 .pseudoMinus {
+  background-color: #28324e;
+}
+.extAccordion2 .panel-heading a,
+.extAccordion3 .panel-heading a,
+.extToggle1 .panel-heading a {
+  font-family: 'Oxygen', sans-serif;
+}
+.extProgressBar5 .progress-primary[value]::-webkit-progress-value {
+  background-color: #28324e;
+}
+.extProgressBar5 .progress-primary[value]::-moz-progress-bar {
+  background-color: #28324e;
+}
+@media screen and (min-width: 0\0) {
+  .extProgressBar5 .progress-primary .progress-bar {
+    background-color: #28324e;
+  }
+}
+.extProgressBar5 .title-wrap {
+  font-family: 'Indie Flower', cursive;
+  font-style: normal;
+}
+.extMsg-box1 .container h3 {
+  font-family: 'Noto Sans', sans-serif;
+}
+.extMsg-box1 .container p {
+  font-family: 'Indie Flower', cursive;
+  font-style: normal;
+}
+.extMsg-box1 h4 {
+  font-family: 'Noto Sans', sans-serif;
+}
+.extMsg-box1 .subtitle {
+  font-family: 'Indie Flower', cursive;
+  font-style: normal;
+}
+.extMsg-box2 .container span,
+.extMsg-box3 .container span,
+.extMsg-box4 .container span {
+  font-family: 'Noto Sans', sans-serif;
+}
+.extMsg-box2 .container p,
+.extMsg-box3 .container p,
+.extMsg-box4 .container p {
+  font-family: 'Indie Flower', cursive;
+  font-style: normal;
+}
+.extProgressBarRound .pie_progress__number {
+  font-family: 'Noto Sans', sans-serif;
+}
+.extMenu1 span.icon a:hover {
+  color: #28324e !important;
+}
+.extProgressBar .progress-primary[value]::-ms-fill {
+  color: #28324e;
+}
+.extProgressBar5 .progress-primary[value]::-ms-fill {
+  color: #28324e;
+}
+.theme-border {
+  border: 1px solid #28324e;
 }
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
 #ext_menu-0 .navbar-caption {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
 }
 #ext_menu-0 .navbar-toggler {
   color: #ffffff;
@@ -446,7 +725,7 @@ h6,
 #ext_menu-0 .dropdown-item:hover,
 #ext_menu-0 .link:focus,
 #ext_menu-0 .dropdown-item:focus {
-  color: #90a878;
+  color: #28324e;
 }
 #ext_menu-0 .link[aria-expanded="true"],
 #ext_menu-0 .dropdown-menu {
@@ -473,22 +752,19 @@ h6,
 }
 #ext_menu-0 .bg-color.transparent.opened .link:hover,
 #ext_menu-0 .bg-color.transparent.opened .link:focus {
-  color: #90a878;
+  color: #28324e;
 }
 #ext_menu-0 .link[aria-expanded="true"],
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
-  color: #90a878!important;
+  color: #28324e!important;
 }
-#header2-1 .mbr-section-title {
-  font-family: 'Indie Flower', cursive;
-  font-size: 72px;
+#ext_menu-0 .navbar-caption SPAN {
+  font-size: 20px;
+  font-family: 'Merriweather', serif;
 }
 #slider2-p .mbr-section-title,
 #slider2-p .mbr-section-lead {
   color: #fff;
-}
-#msg-box5-2 H3 {
-  font-family: 'Indie Flower', cursive;
 }
 #header3-o .mbr-section-title,
 #header3-o .mbr-section-subtitle {
@@ -498,14 +774,12 @@ h6,
 #social-buttons2-a .btn-social {
   color: #232323;
 }
-#social-buttons2-a .mbr-section-title {
-  font-family: 'Indie Flower', cursive;
-}
 #contacts2-8 P {
   color: #000000;
 }
 #contacts2-8 STRONG {
   color: #000000;
+  font-size: 20px;
 }
 #contacts2-8 UL {
   color: #000000;
@@ -514,19 +788,16 @@ h6,
   color: #000000;
 }
 
+
 #header4-e .mbr-section-title P {
   text-align: right;
-  font-family: 'Indie Flower', cursive;
-  font-size: 80px;
-}
-#header4-e .mbr-section-lead SPAN {
-  font-size: 20px;
 }
 #ext_menu-b .hide-buttons .nav-btn {
   display: none !important;
 }
 #ext_menu-b .navbar-caption {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
 }
 #ext_menu-b .navbar-toggler {
   color: #ffffff;
@@ -550,7 +821,7 @@ h6,
 #ext_menu-b .dropdown-item:hover,
 #ext_menu-b .link:focus,
 #ext_menu-b .dropdown-item:focus {
-  color: #90a878;
+  color: #28324e;
 }
 #ext_menu-b .link[aria-expanded="true"],
 #ext_menu-b .dropdown-menu {
@@ -577,17 +848,22 @@ h6,
 }
 #ext_menu-b .bg-color.transparent.opened .link:hover,
 #ext_menu-b .bg-color.transparent.opened .link:focus {
-  color: #90a878;
+  color: #28324e;
 }
 #ext_menu-b .link[aria-expanded="true"],
 #ext_menu-b .dropdown-item[aria-expanded="true"] {
-  color: #90a878!important;
+  color: #28324e!important;
+}
+#ext_menu-b .navbar-caption SPAN {
+  font-size: 20px;
+  font-family: 'Merriweather', serif;
 }
 #contacts2-c P {
   color: #000000;
 }
 #contacts2-c STRONG {
   color: #000000;
+  font-size: 20px;
 }
 #contacts2-c UL {
   color: #000000;
@@ -595,11 +871,14 @@ h6,
 #footer1-d I {
   color: #000000;
 }
+
+
 #ext_menu-g .hide-buttons .nav-btn {
   display: none !important;
 }
 #ext_menu-g .navbar-caption {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
 }
 #ext_menu-g .navbar-toggler {
   color: #ffffff;
@@ -623,7 +902,7 @@ h6,
 #ext_menu-g .dropdown-item:hover,
 #ext_menu-g .link:focus,
 #ext_menu-g .dropdown-item:focus {
-  color: #90a878;
+  color: #28324e;
 }
 #ext_menu-g .link[aria-expanded="true"],
 #ext_menu-g .dropdown-menu {
@@ -650,11 +929,15 @@ h6,
 }
 #ext_menu-g .bg-color.transparent.opened .link:hover,
 #ext_menu-g .bg-color.transparent.opened .link:focus {
-  color: #90a878;
+  color: #28324e;
 }
 #ext_menu-g .link[aria-expanded="true"],
 #ext_menu-g .dropdown-item[aria-expanded="true"] {
-  color: #90a878!important;
+  color: #28324e!important;
+}
+#ext_menu-g .navbar-caption SPAN {
+  font-size: 20px;
+  font-family: 'Merriweather', serif;
 }
 #form1-j .form-control-label {
   color: #232323;
@@ -667,6 +950,7 @@ h6,
 }
 #contacts2-h STRONG {
   color: #000000;
+  font-size: 20px;
 }
 #contacts2-h UL {
   color: #000000;
@@ -675,11 +959,13 @@ h6,
   color: #000000;
 }
 
+
 #ext_menu-k .hide-buttons .nav-btn {
   display: none !important;
 }
 #ext_menu-k .navbar-caption {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
 }
 #ext_menu-k .navbar-toggler {
   color: #ffffff;
@@ -703,7 +989,7 @@ h6,
 #ext_menu-k .dropdown-item:hover,
 #ext_menu-k .link:focus,
 #ext_menu-k .dropdown-item:focus {
-  color: #90a878;
+  color: #28324e;
 }
 #ext_menu-k .link[aria-expanded="true"],
 #ext_menu-k .dropdown-menu {
@@ -730,15 +1016,18 @@ h6,
 }
 #ext_menu-k .bg-color.transparent.opened .link:hover,
 #ext_menu-k .bg-color.transparent.opened .link:focus {
-  color: #90a878;
+  color: #28324e;
 }
 #ext_menu-k .link[aria-expanded="true"],
 #ext_menu-k .dropdown-item[aria-expanded="true"] {
-  color: #90a878!important;
+  color: #28324e!important;
+}
+#ext_menu-k .navbar-caption SPAN {
+  font-size: 20px;
+  font-family: 'Merriweather', serif;
 }
 #header5-n .mbr-section-title {
   color: #000;
-  font-family: 'Indie Flower', cursive;
 }
 #header5-n .mbr-section-lead {
   color: #9c9a9a;
@@ -748,6 +1037,7 @@ h6,
 }
 #contacts2-l STRONG {
   color: #000000;
+  font-size: 20px;
 }
 #contacts2-l UL {
   color: #000000;
