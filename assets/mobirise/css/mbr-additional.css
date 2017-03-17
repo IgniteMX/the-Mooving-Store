@@ -860,6 +860,10 @@ h6,
 #menu-s .dropdown-item[aria-expanded="true"] {
   color: #28324e!important;
 }
+#msg-box8-v .mbr-section-title,
+#msg-box8-v p {
+  color: #fff;
+}
 #form1-j .form-control-label {
   color: #232323;
 }
